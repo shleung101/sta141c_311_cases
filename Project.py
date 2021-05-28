@@ -35,6 +35,3 @@ new_cases = pd.DataFrame(cases['Time Elapsed'])
 for i in cat_name:
     x = pd.get_dummies(cases[i], drop_first=True)
     new_cases = pd.concat([new_cases, x], axis = 1)
-
-new_cases
-########
