@@ -1,5 +1,7 @@
 # STA141C Project: 311 Cases
 
+By Serena Leung, Sujin Song, Sruthi Rayasam
+
 The “311 Cases” dataset contains non-emergency cases from the city and county of San Francisco. The dataset contains 4.8 million observations, in which each case has information like CaseID, request type, and location. Our project attempts to answer these questions:
 * Q1: Based on the category of the request and neighborhood, how long does it take for a case to be closed? 
 * Q2: Given 1 day has passed, what is the predicted case status?
